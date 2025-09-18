@@ -1,6 +1,6 @@
 # 🌱 Nutriveg 
  
-🌐 [Acesse a aplicação](https://nutriveg-frontend.vercel.app/)
+🌐 [Acesse a aplicação](https://nutriveg.vercel.app/)
 
 Este repositório contém apenas o **front-end** da aplicação.  
 O código do **back-end** pode ser acessado em:  
